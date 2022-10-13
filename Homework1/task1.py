@@ -12,4 +12,4 @@ if(0 < day_of_week < 6):
 elif(5 < day_of_week < 8):
     print('7Это выходной')
 elif(day_of_week > 7 or day_of_week <= 0):
-    print('Ошибка!', day_of_week, ' - такого дня недели не существует!')
+    print('Ошибка!', day_of_week, ' - такого дня недели не существует.')
